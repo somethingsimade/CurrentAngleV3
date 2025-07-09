@@ -91,3 +91,17 @@ gamne:Crash() --// pirated copy
 
 
   ---- ///// uif you havent noticed rthis code wil run with some bugs but im fixing it and learning lua v1 so it will run k goodbye
+
+
+  --//// yes this is a real polyglot i got from yt copmment uuuh credits to woenr
+
+
+jscode = "console.log('hello js')" 
+pycode = "print('hello python')" 
+luacode = "print('hello lua')" 
+
+if(1//1--0):eval(pycode);"""
+//1) then loadstring(luacode)() end --[[
+){eval(jscode)};
+//"""#]]
+
