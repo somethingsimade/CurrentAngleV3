@@ -1,6 +1,6 @@
 --[[
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-— ⚠️   EXTREMELY IMPORTANT AND LENGTHY LICENSE NOTICE   ⚠️ —
+— ⚠️   EXTREMELY IMPORTANT  LICENSE NOTICE   ⚠️ —
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 — If you are reading this, — congratulations! — You have found the legendary,
@@ -50,9 +50,6 @@ lawyer. —
 — In summary — MIT? — No. — GPL? — No. — Apache? — Nope. — MPL? — Not even close. —
 What license is this, you ask? — That, dear friend, is a mystery you must solve
 by exploring the README or contacting the enigmatic author. —
-
-— Thank you for enduring this tidal wave of em dashes and license ambiguity. —
-May your day be as free as this code is from the MIT License. —
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ]]
